@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.exe
+C:\Users\marco\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Users\marco\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Users\marco\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Users\marco\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.dll
+C:\Users\marco\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Users\marco\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Users\marco\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.dll
+C:\Users\marco\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Users\marco\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
